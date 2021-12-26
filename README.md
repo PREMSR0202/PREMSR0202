@@ -1,6 +1,4 @@
 - 👋 Hi, I’m PREM S R
-- 👀 I’m interested in Devops ...
-- 🌱 I’m currently learning Cloud Technologies ...
 - 📫 How to reach me srprem2000@gmail.com
 
 <!---
